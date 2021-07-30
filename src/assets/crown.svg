@@ -1,0 +1,20 @@
+<svg width="50" height="49" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with UXWing SVG Editor - https://uxwing.com/svg-icon-editor/ -->
+
+ <g>
+  <title>Home</title>
+  <rect fill="#0affce" id="canvas_background" height="51" width="52" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Home</title>
+  <defs>
+   <style>.cls-1{fill:#ff6700;fill-rule:evenodd;}.cls-2{fill:#fff;}</style>
+  </defs>
+  <rect stroke="#FF0000" id="svg_11" height="49" width="52" y="68" x="-7" stroke-width="0.001" fill="#00ffc3"/>
+  <text style="cursor: pointer;" stroke="#FF0000" transform="matrix(4.490701957134956,0,0,4.283249393404026,-680.3972692306089,-782.9806774522901) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="6" id="svg_12" y="189.998171" x="153.00443" stroke-opacity="null" stroke-width="0" fill="#000000">ED</text>
+  <text stroke="#FF0000" transform="matrix(1.61946689296866,0,0,1.5167243480682373,-169.35621099578643,-173.49019986391068) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="7" id="svg_13" y="142.548183" x="115.19051" stroke-opacity="null" stroke-width="0" fill="#000000">Store</text>
+ </g>
+</svg>
